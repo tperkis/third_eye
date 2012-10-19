@@ -6,6 +6,6 @@ In the **ThirdEye Workshop** each participant will build and take home a 3rd_eye
 
 First we’ll build the devices, a relatively simple process in which you’ll learn to solder and do simple electronic assembly. Then we’ll play with these gizmos in group improvisations and games. Participants should bring a headband, hat, or cap so they can wear their 3rd_eye comfortably.
 
-Tim (http://perkis.com) is an electronic musician who has worked for over 25 years with computer networks and improvisation; he is also a filmmaker (Noisy People, 2006)
+Tim Perkis (http://perkis.com) is an electronic musician who has worked for over 25 years with computer networks and improvisation; he is also a filmmaker (Noisy People, 2006)
 
-Sara is into exploring sound and human dynamics with non-expert groups of people. Her best known tool is the “earbies”, a set of 50 handheld loop recorders. She teaches in Experimental Sound Practices at Cal Arts.
+Sarah Roberts is into exploring sound and human dynamics with non-expert groups of people. Her best known tool is the “earbies”, a set of 50 handheld loop recorders. She teaches in Experimental Sound Practices at Cal Arts.
