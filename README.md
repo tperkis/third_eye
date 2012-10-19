@@ -1,5 +1,7 @@
 This is the source code of the "third eye" device first built in the workshop described below. 
 
+----------------------
+
 What if you could see if someone was behind you, feel how close they are to you? Would that change your notion of the borders of your body, change the kind of social interactions you have with people, open up new possibilities for group games and sports?
 
 In the **ThirdEye Workshop** each participant will build and take home a 3rd_eye, a small device that can be clipped on a headband, hat or cap. The **thirdEye** uses infrared light to sense your proximity to people or objects and buzzes more vigorously the closer they are. (Often people quickly forget they are wearing them and just incorporate them as a new sense, going from thinking “this thing is buzzing on my neck” to simply “someone is behind me” in less than an hour. )
