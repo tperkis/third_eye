@@ -11,3 +11,5 @@ First we’ll build the devices, a relatively simple process in which you’ll l
 Tim Perkis (http://perkis.com) is an electronic musician who has worked for over 25 years with computer networks and improvisation; he is also a filmmaker (Noisy People, 2006)
 
 Sarah Roberts is into exploring sound and human dynamics with non-expert groups of people. Her best known tool is the “earbies”, a set of 50 handheld loop recorders. She teaches in Experimental Sound Practices at Cal Arts.
+
+![third eye](./third_eye.jpg_)
